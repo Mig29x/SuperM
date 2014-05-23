@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Queso</key>
+	<string>Proteína</string>
+	<key>Té</key>
+	<string>Carbohidratos</string>
+	<key>Café</key>
+	<string>Carbohidratos</string>
+	<key>Cereales</key>
+	<string>Carbohidratos</string>
+	<key>Chocolate</key>
+	<string>Grasas y Aceites</string>
+	<key>Mermelada</key>
+	<string>Grasas y Aceites</string>
+	<key>Compota</key>
+	<string>Proteína</string>
+	<key>Tortas</key>
+	<string>Grasas y Aceites</string>
+	<key>Caramelo</key>
+	<string>Grasas y Aceites</string>
+	<key>Pollo</key>
+	<string>Proteína</string>
+	<key>Galletas</key>
+	<string>Carbohidratos</string>
+	<key>Pan</key>
+	<string>Carbohidratos</string>
+</dict>
+</plist>
